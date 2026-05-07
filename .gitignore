@@ -1,0 +1,13 @@
+Debug/
+Release/
+build/
+
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.log
+
+.metadata/
+.settings/language.settings.xml
