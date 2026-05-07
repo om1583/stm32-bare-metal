@@ -1,3 +1,8 @@
+# STM32CubeIDE
+
+.metadata/
+.settings/
+
 Debug/
 Release/
 build/
@@ -9,5 +14,7 @@ build/
 *.list
 *.log
 
-.metadata/
-.settings/language.settings.xml
+*.launch
+
+.DS_Store
+Thumbs.db
