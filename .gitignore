@@ -25,3 +25,5 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+stm32f411-blackpill/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+/stm32f411-blackpill/.metadata
