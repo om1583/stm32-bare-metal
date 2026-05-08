@@ -93,3 +93,21 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY org.eclipse.cdt.core 1 0 2026-05-08 00:48:09.851
 !MESSAGE Indexed 'gpio_output' (2 sources, 53 headers) in 4.19 sec: 1,948 declarations; 2,834 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+!SESSION 2026-05-09 01:44:54.447 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-05-09 01:45:14.016
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-05-09 01:45:14.020
+!MESSAGE Log4j2 initialized with config file C:\stm32-bare-metal\stm32f411-blackpill\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-05-09 01:45:27.528
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-05-09 01:49:09.901
+!MESSAGE Indexed 'blink_cmsis' (19 sources, 81 headers) in 9.28 sec: 4,310 declarations; 18,165 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0089%)
